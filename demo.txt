@@ -1,0 +1,2 @@
+Difference between git push and git push origin
+git push is used when you have only one branch in your repo but git push origin main is more specific. for example, if you are pushing into 3 other remote repo from your local, you need to specify the different origins.
